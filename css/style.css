@@ -10078,6 +10078,10 @@ h6,
 .team{
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
+.serives-img{
+  width:500px!important;
+  height:300px!important;
+}
 .team .team-img {
   position: relative;
   width: 100%;

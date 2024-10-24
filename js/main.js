@@ -138,10 +138,10 @@
         loop: true,
     });
 
-    $(document).ready(function() {
-        $("#header").load("header.html");
-        $("#footer-placeholder").load("footer.html");
-    });   
+    // $(document).ready(function() {
+    //     $("#header").load("header.html");
+    //     $("#footer-placeholder").load("footer.html");
+    // });   
     $(document).ready(function() {
         // Load the header and footer
         $("#header").load("header.html", function() {
